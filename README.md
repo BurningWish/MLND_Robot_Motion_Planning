@@ -3,7 +3,7 @@ This is the 7th project for the Machine Learning Nanodegree Program. This projec
 
 ## Code Usage
 - First download the repository to your desktop and unzip it.
-- Please then see the 'proposal.pdf' and 'report.pdf' for more details.
+- Please then see the `proposal.pdf` and `report.pdf` for more details.
 - If you want to play around the code yourself, you can use the `showmaze.py` file to visualize any maze first. You can use the command `python showmaze.py test_maze_01.txt` to visualize the fist maze (12×12) for example.
 - On the other hand, if you want to ask the robot the solve a spefic maze, you can use the `tester.py` file. You can type 'python tester.py test_maze_01.txt' to see how the robot solves the first maze, and output will be given on performance.
 - To clarity, `test_maze_01.txt`, `test_maze_02.txt`, and `test_maze_03.txt` are pre-configured mazes to test my algorithm, the `test_maze_04.txt` is my customized maze to further test the robustness for the robot.
